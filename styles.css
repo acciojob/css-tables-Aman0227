@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 body {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content:;
+  align-items:;
   height: 100vh;
   background-color: #fff;
   font-family: Arial, sans-serif;
@@ -10,13 +10,13 @@ body {
 
 .table {
   display: flex;
-  gap: 10px;
+  gap: 2px;
 }
 
 .column {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 2px;
 }
 
 .header {
